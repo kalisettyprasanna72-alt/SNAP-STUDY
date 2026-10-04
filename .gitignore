@@ -1,8 +1,4 @@
-# Credentials and local configuration
-.streamlit/secrets.toml
-.streamlit/credentials.toml
-.env
-.env.*
+
 
 # Python bytecode and caches
 __pycache__/
@@ -32,4 +28,4 @@ $RECYCLE.BIN/
 build/
 dist/
 *.egg-info/
-.streamlit/secrets.toml
+
